@@ -2,7 +2,7 @@ body{
 	background-color: #232323;
 }
 
-h1, span{
+h1{
 	color: white;
 }
 
@@ -19,4 +19,12 @@ h1, span{
 #container{
 	margin: 0 auto;
 	max-width: 800px;
+}
+
+#stripe{
+	background-color: white;
+	height: 30px;
+	text-align: center;
+
+
 }
